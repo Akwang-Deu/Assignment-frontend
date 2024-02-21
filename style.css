@@ -1,0 +1,27 @@
+div{
+
+    border: solid 1px;
+    width: 50%;
+    margin: 0 auto;
+    padding: 12px;
+}
+
+
+.input{
+    padding:1px 200px;
+    border-radius: 5px;
+    border: solid 1px;
+}
+button{
+
+
+    padding: 10px 230px;
+    background-color: black;
+    color: white;
+
+}
+tables th, td{
+    border: color(srgb red green blue);
+
+
+}
